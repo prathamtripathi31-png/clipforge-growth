@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-14T11:16:46.556840+00:00
+Generated: 2026-11-14T11:21:51.657866+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
