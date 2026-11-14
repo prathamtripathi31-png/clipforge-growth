@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-14T11:16:46.556840+00:00",
+  "expires_at": "2026-11-21T11:16:46.556840+00:00",
+  "platforms": {
+    "youtube": {
+      "tactics": [
+        "yt_one_clear_idea",
+        "yt_open_on_payoff",
+        "yt_specific_title"
+      ],
+      "evidence": [
+        {
+          "url": "https://support.google.com/youtube/answer/16559650?hl=en",
+          "title": "YouTube Shorts content tips",
+          "kind": "official_guidance"
+        },
+        {
+          "url": "https://support.google.com/youtube/answer/12942217?hl=en",
+          "title": "YouTube Shorts analytics tips",
+          "kind": "official_guidance"
+        },
+        {
+          "url": "https://blog.youtube/creator-and-artist-stories/youtube-shorts-deep-dive/",
+          "title": "YouTube Shorts deep dive: hooks and mini stories",
+          "kind": "official_guidance"
+        }
+      ]
+    },
+    "tiktok": {
+      "tactics": [
+        "tt_caption_context",
+        "tt_clear_payoff",
+        "tt_immediate_context"
+      ],
+      "evidence": [
+        {
+          "url": "https://ads.tiktok.com/business/en/guides/what-is-ad-creative-guide",
+          "title": "TikTok ad creative guidance",
+          "kind": "ad_guidance_hypothesis"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXBIb2NaMTJGa25aeXJtU1FTZV9lQWo2THlFbWo3dVg4V3NtQThBMGRDNW5id29IVFp5cjh5enVydWZRTjZYSnAyT29sbXNOUVVjbEZsVmVrSW4tcFphYWlFQWlpcWRDWnRQcDJOMEhnQ043eTFlSEFTcnhrV1d3UmFZeFlFZTdmbXRsM2tYTzRZQnE1cGo2V2YyUThTbnR0NDB3X09hczJueUVXTFZ6amQzZDM?oc=5",
+          "title": "TikTok Launches First Creator Supper Club In Partnership With Marks & Spencer - Newsroom | TikTok",
+          "kind": "official_news_metadata"
+        }
+      ]
+    }
+  },
+  "research": {
+    "sources_checked": 7,
+    "sources_ok": 7,
+    "queries": [
+      "site:blog.youtube Shorts audience retention creator tips when:30d",
+      "site:newsroom.tiktok.com creator content audience tips when:30d"
+    ],
+    "limitations": [
+      "Recommendations are editorial hypotheses, not proof of organic growth or promises of views.",
+      "TikTok ad guidance is ad-derived; test its relevance to organic gaming clips cautiously.",
+      "Public feed titles do not establish retention, audience satisfaction, or causation.",
+      "No authenticated channel analytics are available to this key-free cloud researcher.",
+      "youtube: recent official news search returned no trusted items."
+    ]
+  }
+}
