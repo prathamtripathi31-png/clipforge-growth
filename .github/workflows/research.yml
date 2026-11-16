@@ -2,6 +2,10 @@ name: Daily ClipForge growth research
 
 on:
   schedule:
+    # Public-source strategy loop: roughly 02:00, 04:00 and 06:00 Madrid
+    # during winter (01:00, 03:00 and 05:00 UTC). It never touches private
+    # analytics, credentials, footage or publishing.
+    - cron: '0 1,3,5 * * *'
     - cron: '17 6 * * *'
   workflow_dispatch:
 
