@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-15T14:03:53.057143+00:00
+Generated: 2026-11-16T16:00:08.879696+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -28,11 +28,11 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 Titles only; no evidence these formats caused growth.
 
-- CODM Verdansk Madness: Rez Breaks Triple-Digit Kill Streak!
-- CODM: Secure Pickups on Verdansk Before Self-Revives
-- Horton's Final Life on Verdansk in CODM 😱
-- CODM Verdansk: Low Techs vs Jokesta 1v2
-- CODM Verdansk Strategy: Why Staying Together Wins
+- Why MrBeast's team splits up in the Hunger Games
+- First Blood on Verdansk in CODM - Perfect Drop One Play
+- How MrBeast's Hunger Games suits detect eliminations
+- Kevin explains what MrBeast's $250,000 means to his family
+- The final fight for MrBeast's $250,000 prize
 
 ## Limits and source availability
 
