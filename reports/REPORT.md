@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-17T08:43:55.531322+00:00
+Generated: 2026-11-17T16:11:54.171335+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -29,11 +29,11 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 Titles only; no evidence these formats caused growth.
 
+- An elimination turns into a revenge vow in MrBeast's Hunger Games
+- CODM Verdansk Gulag Returns - Pure Nostalgia
+- A risky distraction plan in MrBeast's Hunger Games
 - The fight over supplies in MrBeast's Hunger Games
 - Playing with Slayer on Verdansk in Call of Duty: Mobile
-- Why MrBeast's team splits up in the Hunger Games
-- First Blood on Verdansk in CODM - Perfect Drop One Play
-- How MrBeast's Hunger Games suits detect eliminations
 
 ## Limits and source availability
 
