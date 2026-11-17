@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T16:00:08.879696+00:00",
-  "expires_at": "2026-11-23T16:00:08.879696+00:00",
+  "generated_at": "2026-11-17T08:43:55.531322+00:00",
+  "expires_at": "2026-11-24T08:43:55.531322+00:00",
   "platforms": {
     "youtube": {
       "tactics": [
@@ -42,6 +42,11 @@
         {
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXBIb2NaMTJGa25aeXJtU1FTZV9lQWo2THlFbWo3dVg4V3NtQThBMGRDNW5id29IVFp5cjh5enVydWZRTjZYSnAyT29sbXNOUVVjbEZsVmVrSW4tcFphYWlFQWlpcWRDWnRQcDJOMEhnQ043eTFlSEFTcnhrV1d3UmFZeFlFZTdmbXRsM2tYTzRZQnE1cGo2V2YyUThTbnR0NDB3X09hczJueUVXTFZ6amQzZDM?oc=5",
           "title": "TikTok Launches First Creator Supper Club In Partnership With Marks & Spencer - Newsroom | TikTok",
+          "kind": "official_news_metadata"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaHBsdDFoY2JHT1IxV1FYV0tXQVdmamtfdHhnZ3NmdUNtSGhpa19zc3dNS0ZvVmJIZ3VKN1M0MXdkYUU2NGNMYU84TjhqaWhvOFlNN0tCdUwwTFhRajJBMGxpdlNwcXR4ZUlDSGxiRWZCaGxlX09CZjgtYTlsZnBOd0NzZ05FRTg3a2hiWTFmcVFCdnJUb2dDVlNsS2N2X1lWcm04ZXJ5Q2RJX3FGNVJka0RhYWpLVGpDZVItWlh1M3g3UFBmcVl5Y3drX04tTHh4VzJvTUZuZXJUejZHcEQ4ZndGbV8zaHoxcW1vUEdvdWRtVk5HcTBRNTd5LUJJemVlWjJ0OE1IU0stZw?oc=5",
+          "title": "TikTok: Inspiring creativity, bringing joy, and enabling inclusive economic growth in a safe and positive environment across Southeast Asia - Newsroom | TikTok",
           "kind": "official_news_metadata"
         },
         {

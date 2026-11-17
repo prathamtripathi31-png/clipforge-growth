@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-16T16:00:08.879696+00:00
+Generated: 2026-11-17T08:43:55.531322+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -22,17 +22,18 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 - [TikTok ad creative guidance](https://ads.tiktok.com/business/en/guides/what-is-ad-creative-guide) — ad_guidance_hypothesis
 - [TikTok Launches First Creator Supper Club In Partnership With Marks &amp; Spencer - Newsroom | TikTok](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXBIb2NaMTJGa25aeXJtU1FTZV9lQWo2THlFbWo3dVg4V3NtQThBMGRDNW5id29IVFp5cjh5enVydWZRTjZYSnAyT29sbXNOUVVjbEZsVmVrSW4tcFphYWlFQWlpcWRDWnRQcDJOMEhnQ043eTFlSEFTcnhrV1d3UmFZeFlFZTdmbXRsM2tYTzRZQnE1cGo2V2YyUThTbnR0NDB3X09hczJueUVXTFZ6amQzZDM?oc=5) — official_news_metadata
+- [TikTok: Inspiring creativity, bringing joy, and enabling inclusive economic growth in a safe and positive environment across Southeast Asia - Newsroom | TikTok](https://news.google.com/rss/articles/CBMiigJBVV95cUxNaHBsdDFoY2JHT1IxV1FYV0tXQVdmamtfdHhnZ3NmdUNtSGhpa19zc3dNS0ZvVmJIZ3VKN1M0MXdkYUU2NGNMYU84TjhqaWhvOFlNN0tCdUwwTFhRajJBMGxpdlNwcXR4ZUlDSGxiRWZCaGxlX09CZjgtYTlsZnBOd0NzZ05FRTg3a2hiWTFmcVFCdnJUb2dDVlNsS2N2X1lWcm04ZXJ5Q2RJX3FGNVJka0RhYWpLVGpDZVItWlh1M3g3UFBmcVl5Y3drX04tTHh4VzJvTUZuZXJUejZHcEQ4ZndGbV8zaHoxcW1vUEdvdWRtVk5HcTBRNTd5LUJJemVlWjJ0OE1IU0stZw?oc=5) — official_news_metadata
 - [TikTok: Inspiring creativity, bringing joy, and enabling inclusive economic growth in a safe and positive environment across Southeast Asia - Newsroom | TikTok](https://news.google.com/rss/articles/CBMihgJBVV95cUxPR05iZzRqLUJTNGRjbk1MYjFaTE1HX1phTGZiTmg0cW40RDhLNXlLMUhSUmU4S0w5UF9fWWJ1d0xxWktXVE9YckttT2UzRUt6aXBCaldrZF84UzNnTnRjU1JXeHQ5X1NmUVdGVTRRR3RFNTZpZWs0Y0JJRm03RTAydl9BZWlha3Vuc3RjV3VZRXVocWhfU05tc19abmRxTjJhMzh5M2RNb2xjYVdqSlc5S3pKM0YyLVJYUGxXbDBUR1RKN2RiaWZYX0JucVJGOFhweXJib1o1ZmZOa2gxOXRPWk1RXzAxUHdmX2JoblUwYVgwYXdtYllEc2hURE5BYnQ5NGhfZ1hR?oc=5) — official_news_metadata
 
 ## Public channel title observations
 
 Titles only; no evidence these formats caused growth.
 
+- The fight over supplies in MrBeast's Hunger Games
+- Playing with Slayer on Verdansk in Call of Duty: Mobile
 - Why MrBeast's team splits up in the Hunger Games
 - First Blood on Verdansk in CODM - Perfect Drop One Play
 - How MrBeast's Hunger Games suits detect eliminations
-- Kevin explains what MrBeast's $250,000 means to his family
-- The final fight for MrBeast's $250,000 prize
 
 ## Limits and source availability
 
