@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-18T08:08:14.368280+00:00
+Generated: 2026-11-18T15:47:50.333607+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -29,18 +29,18 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 Titles only; no evidence these formats caused growth.
 
+- This shield changes the fight in MrBeast's Hunger Games
+- Bobby's clutch on Verdansk in Call of Duty: Mobile
+- An ambush causes chaos in MrBeast's Hunger Games
 - Nolan's duel draws a crowd in MrBeast's Hunger Games
 - CODM Verdansk: Classic Gulag Returns! 🎮
-- An elimination turns into a revenge vow in MrBeast's Hunger Games
-- CODM Verdansk Gulag Returns - Pure Nostalgia
-- A risky distraction plan in MrBeast's Hunger Games
 
 ## Limits and source availability
 
-Successful text sources: 6/7.
+Successful text sources: 7/7.
 
 - Recommendations are editorial hypotheses, not proof of organic growth or promises of views.
 - TikTok ad guidance is ad-derived; test its relevance to organic gaming clips cautiously.
 - Public feed titles do not establish retention, audience satisfaction, or causation.
 - No authenticated channel analytics are available to this key-free cloud researcher.
-- youtube: optional news search unavailable (HTTPError).
+- youtube: recent official news search returned no trusted items.
