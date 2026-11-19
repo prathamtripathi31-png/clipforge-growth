@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-19T08:17:09.494311+00:00
+Generated: 2026-11-19T15:53:05.895037+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -30,11 +30,11 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 Titles only; no evidence these formats caused growth.
 
+- Losing Juan changes the stakes in MrBeast's Hunger Games
+- **“Lacy Doing the Most Unhinged Shit on Stream 💀😭”**
+- GTA VI n*de , clix was shocked watching it
 - The betrayal nobody hides in MrBeast's Hunger Games
 - CODM Gets Warzone Weather on Verdansk 🌦️
-- This shield changes the fight in MrBeast's Hunger Games
-- Bobby's clutch on Verdansk in Call of Duty: Mobile
-- An ambush causes chaos in MrBeast's Hunger Games
 
 ## Limits and source availability
 
