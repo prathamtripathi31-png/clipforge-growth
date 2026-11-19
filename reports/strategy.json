@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T15:47:50.333607+00:00",
-  "expires_at": "2026-11-25T15:47:50.333607+00:00",
+  "generated_at": "2026-11-19T08:17:09.494311+00:00",
+  "expires_at": "2026-11-26T08:17:09.494311+00:00",
   "platforms": {
     "youtube": {
       "tactics": [
@@ -52,6 +52,11 @@
         {
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPR05iZzRqLUJTNGRjbk1MYjFaTE1HX1phTGZiTmg0cW40RDhLNXlLMUhSUmU4S0w5UF9fWWJ1d0xxWktXVE9YckttT2UzRUt6aXBCaldrZF84UzNnTnRjU1JXeHQ5X1NmUVdGVTRRR3RFNTZpZWs0Y0JJRm03RTAydl9BZWlha3Vuc3RjV3VZRXVocWhfU05tc19abmRxTjJhMzh5M2RNb2xjYVdqSlc5S3pKM0YyLVJYUGxXbDBUR1RKN2RiaWZYX0JucVJGOFhweXJib1o1ZmZOa2gxOXRPWk1RXzAxUHdmX2JoblUwYVgwYXdtYllEc2hURE5BYnQ5NGhfZ1hR?oc=5",
           "title": "TikTok: Inspiring creativity, bringing joy, and enabling inclusive economic growth in a safe and positive environment across Southeast Asia - Newsroom | TikTok",
+          "kind": "official_news_metadata"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fdnJTUmVsZElKSnU2WUVscGxaLVZlYjZ0bzlVNGZ3NlNkZ2ZjYTM1dFU2SEV4QWV2NHd3R1VPRklvajFfd3BMMGl3c0dEUHpP?oc=5",
+          "title": "Newsroom - Newsroom | TikTok",
           "kind": "official_news_metadata"
         }
       ]
