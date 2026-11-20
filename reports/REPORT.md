@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-19T15:53:05.895037+00:00
+Generated: 2026-11-20T07:57:51.159067+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -30,11 +30,11 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 Titles only; no evidence these formats caused growth.
 
+- Best friends reach the end of MrBeast's Hunger Games
 - Losing Juan changes the stakes in MrBeast's Hunger Games
 - **“Lacy Doing the Most Unhinged Shit on Stream 💀😭”**
 - GTA VI n*de , clix was shocked watching it
 - The betrayal nobody hides in MrBeast's Hunger Games
-- CODM Gets Warzone Weather on Verdansk 🌦️
 
 ## Limits and source availability
 
