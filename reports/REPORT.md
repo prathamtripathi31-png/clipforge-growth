@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-20T07:57:51.159067+00:00
+Generated: 2026-11-20T15:35:21.593175+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -30,11 +30,11 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 Titles only; no evidence these formats caused growth.
 
+- Attempting to steal GTA 6's most expensive car
+- Turbo upgrade for $500 in GTA 6
 - Best friends reach the end of MrBeast's Hunger Games
 - Losing Juan changes the stakes in MrBeast's Hunger Games
 - **“Lacy Doing the Most Unhinged Shit on Stream 💀😭”**
-- GTA VI n*de , clix was shocked watching it
-- The betrayal nobody hides in MrBeast's Hunger Games
 
 ## Limits and source availability
 
