@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-21T14:45:48.694030+00:00
+Generated: 2026-11-22T07:40:40.099273+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -29,11 +29,11 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 Titles only; no evidence these formats caused growth.
 
+- Trapped on an Island in GTA 6: The Worst Location
 - Missed exit leads to chaotic right lane in GTA 6
 - Attempting to steal GTA 6's most expensive car
 - Turbo upgrade for $500 in GTA 6
 - Best friends reach the end of MrBeast's Hunger Games
-- Losing Juan changes the stakes in MrBeast's Hunger Games
 
 ## Limits and source availability
 
