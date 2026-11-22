@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-22T07:40:40.099273+00:00
+Generated: 2026-11-22T14:41:49.130601+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -29,11 +29,11 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 Titles only; no evidence these formats caused growth.
 
+- Climb to the net top in GTA 6 | How it impacts survival
+- Stealth store robbery prep in GTA 6
 - Trapped on an Island in GTA 6: The Worst Location
 - Missed exit leads to chaotic right lane in GTA 6
 - Attempting to steal GTA 6's most expensive car
-- Turbo upgrade for $500 in GTA 6
-- Best friends reach the end of MrBeast's Hunger Games
 
 ## Limits and source availability
 
