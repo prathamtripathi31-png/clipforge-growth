@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-23T08:29:53.528740+00:00
+Generated: 2026-11-23T18:24:54.029460+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -23,17 +23,16 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 - [TikTok ad creative guidance](https://ads.tiktok.com/business/en/guides/what-is-ad-creative-guide) — ad_guidance_hypothesis
 - [TikTok Launches First Creator Supper Club In Partnership With Marks &amp; Spencer - Newsroom | TikTok](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXBIb2NaMTJGa25aeXJtU1FTZV9lQWo2THlFbWo3dVg4V3NtQThBMGRDNW5id29IVFp5cjh5enVydWZRTjZYSnAyT29sbXNOUVVjbEZsVmVrSW4tcFphYWlFQWlpcWRDWnRQcDJOMEhnQ043eTFlSEFTcnhrV1d3UmFZeFlFZTdmbXRsM2tYTzRZQnE1cGo2V2YyUThTbnR0NDB3X09hczJueUVXTFZ6amQzZDM?oc=5) — official_news_metadata
 - [TikTok: Inspiring creativity, bringing joy, and enabling inclusive economic growth in a safe and positive environment across Southeast Asia - Newsroom | TikTok](https://news.google.com/rss/articles/CBMiigJBVV95cUxNaHBsdDFoY2JHT1IxV1FYV0tXQVdmamtfdHhnZ3NmdUNtSGhpa19zc3dNS0ZvVmJIZ3VKN1M0MXdkYUU2NGNMYU84TjhqaWhvOFlNN0tCdUwwTFhRajJBMGxpdlNwcXR4ZUlDSGxiRWZCaGxlX09CZjgtYTlsZnBOd0NzZ05FRTg3a2hiWTFmcVFCdnJUb2dDVlNsS2N2X1lWcm04ZXJ5Q2RJX3FGNVJka0RhYWpLVGpDZVItWlh1M3g3UFBmcVl5Y3drX04tTHh4VzJvTUZuZXJUejZHcEQ4ZndGbV8zaHoxcW1vUEdvdWRtVk5HcTBRNTd5LUJJemVlWjJ0OE1IU0stZw?oc=5) — official_news_metadata
-- [Newsroom - Newsroom | TikTok](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fdnJTUmVsZElKSnU2WUVscGxaLVZlYjZ0bzlVNGZ3NlNkZ2ZjYTM1dFU2SEV4QWV2NHd3R1VPRklvajFfd3BMMGl3c0dEUHpP?oc=5) — official_news_metadata
 
 ## Public channel title observations
 
 Titles only; no evidence these formats caused growth.
 
+- NPCs rob the bank simultaneously in GTA 6
+- Risking the airport ramp in GTA 6
 - Train scene ends with 'I lose everything'
 - Low-security car break-in in GTA 6
 - Climb to the net top in GTA 6 | How it impacts survival
-- Stealth store robbery prep in GTA 6
-- Trapped on an Island in GTA 6: The Worst Location
 
 ## Limits and source availability
 
