@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-23T18:24:54.029460+00:00
+Generated: 2026-11-24T10:36:58.676364+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -28,11 +28,11 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 Titles only; no evidence these formats caused growth.
 
+- Blocked Highway Getaway in GTA 6
+- No-deposit robbery challenge in GTA 6
 - NPCs rob the bank simultaneously in GTA 6
 - Risking the airport ramp in GTA 6
 - Train scene ends with 'I lose everything'
-- Low-security car break-in in GTA 6
-- Climb to the net top in GTA 6 | How it impacts survival
 
 ## Limits and source availability
 
