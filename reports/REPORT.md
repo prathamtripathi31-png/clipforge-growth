@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-26T17:02:02.523723+00:00
+Generated: 2026-11-27T09:21:47.762467+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -21,6 +21,7 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 - Hypothesis: Make the subject and stakes clear immediately.
 
 - [TikTok ad creative guidance](https://ads.tiktok.com/business/en/guides/what-is-ad-creative-guide) — ad_guidance_hypothesis
+- [Introducing the TikTok Awards UK 2026 presented by Sky; the ones who spark it! - Newsroom | TikTok](https://news.google.com/rss/articles/CBMibEFVX3lxTE44eGpvNXc0aGRzY2VzdHdWRWFWTENkeXNNMGNRQVdOX3BJNmpIM0NoN1R5QlN3VUZyWnpuaEg4UXNaell2TVdLV1BZZ0twVFNrVUlETW5mS09GVGNhVFpUVWU1UFV6UWxnNTFLRQ?oc=5) — official_news_metadata
 - [TikTok Launches First Creator Supper Club In Partnership With Marks &amp; Spencer - Newsroom | TikTok](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXBIb2NaMTJGa25aeXJtU1FTZV9lQWo2THlFbWo3dVg4V3NtQThBMGRDNW5id29IVFp5cjh5enVydWZRTjZYSnAyT29sbXNOUVVjbEZsVmVrSW4tcFphYWlFQWlpcWRDWnRQcDJOMEhnQ043eTFlSEFTcnhrV1d3UmFZeFlFZTdmbXRsM2tYTzRZQnE1cGo2V2YyUThTbnR0NDB3X09hczJueUVXTFZ6amQzZDM?oc=5) — official_news_metadata
 - [TikTok: Inspiring creativity, bringing joy, and enabling inclusive economic growth in a safe and positive environment across Southeast Asia - Newsroom | TikTok](https://news.google.com/rss/articles/CBMiigJBVV95cUxNaHBsdDFoY2JHT1IxV1FYV0tXQVdmamtfdHhnZ3NmdUNtSGhpa19zc3dNS0ZvVmJIZ3VKN1M0MXdkYUU2NGNMYU84TjhqaWhvOFlNN0tCdUwwTFhRajJBMGxpdlNwcXR4ZUlDSGxiRWZCaGxlX09CZjgtYTlsZnBOd0NzZ05FRTg3a2hiWTFmcVFCdnJUb2dDVlNsS2N2X1lWcm04ZXJ5Q2RJX3FGNVJka0RhYWpLVGpDZVItWlh1M3g3UFBmcVl5Y3drX04tTHh4VzJvTUZuZXJUejZHcEQ4ZndGbV8zaHoxcW1vUEdvdWRtVk5HcTBRNTd5LUJJemVlWjJ0OE1IU0stZw?oc=5) — official_news_metadata
 

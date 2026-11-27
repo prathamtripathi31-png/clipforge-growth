@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T17:02:02.523723+00:00",
-  "expires_at": "2026-12-03T17:02:02.523723+00:00",
+  "generated_at": "2026-11-27T09:21:47.762467+00:00",
+  "expires_at": "2026-12-04T09:21:47.762467+00:00",
   "platforms": {
     "youtube": {
       "tactics": [
@@ -38,6 +38,11 @@
           "url": "https://ads.tiktok.com/business/en/guides/what-is-ad-creative-guide",
           "title": "TikTok ad creative guidance",
           "kind": "ad_guidance_hypothesis"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44eGpvNXc0aGRzY2VzdHdWRWFWTENkeXNNMGNRQVdOX3BJNmpIM0NoN1R5QlN3VUZyWnpuaEg4UXNaell2TVdLV1BZZ0twVFNrVUlETW5mS09GVGNhVFpUVWU1UFV6UWxnNTFLRQ?oc=5",
+          "title": "Introducing the TikTok Awards UK 2026 presented by Sky; the ones who spark it! - Newsroom | TikTok",
+          "kind": "official_news_metadata"
         },
         {
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXBIb2NaMTJGa25aeXJtU1FTZV9lQWo2THlFbWo3dVg4V3NtQThBMGRDNW5id29IVFp5cjh5enVydWZRTjZYSnAyT29sbXNOUVVjbEZsVmVrSW4tcFphYWlFQWlpcWRDWnRQcDJOMEhnQ043eTFlSEFTcnhrV1d3UmFZeFlFZTdmbXRsM2tYTzRZQnE1cGo2V2YyUThTbnR0NDB3X09hczJueUVXTFZ6amQzZDM?oc=5",
