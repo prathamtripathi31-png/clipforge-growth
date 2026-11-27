@@ -1,6 +1,6 @@
 # ClipForge growth research
 
-Generated: 2026-11-27T09:21:47.762467+00:00
+Generated: 2026-11-27T16:47:54.155147+00:00
 
 Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
@@ -8,10 +8,7 @@ Runs on a cloud runner. No videos, credentials, or raw pages are stored.
 
 - Hypothesis: Choose one understandable idea with a complete payoff.
 - Hypothesis: Open on a compelling moment, then deliver its promised payoff.
-- Hypothesis: Use a specific, accurate title that explains the clip's subject.
 
-- [YouTube Shorts content tips](https://support.google.com/youtube/answer/16559650?hl=en) — official_guidance
-- [YouTube Shorts analytics tips](https://support.google.com/youtube/answer/12942217?hl=en) — official_guidance
 - [YouTube Shorts deep dive: hooks and mini stories](https://blog.youtube/creator-and-artist-stories/youtube-shorts-deep-dive/) — official_guidance
 
 ## Tiktok
@@ -37,10 +34,12 @@ Titles only; no evidence these formats caused growth.
 
 ## Limits and source availability
 
-Successful text sources: 7/7.
+Successful text sources: 5/7.
 
 - Recommendations are editorial hypotheses, not proof of organic growth or promises of views.
 - TikTok ad guidance is ad-derived; test its relevance to organic gaming clips cautiously.
 - Public feed titles do not establish retention, audience satisfaction, or causation.
 - No authenticated channel analytics are available to this key-free cloud researcher.
+- youtube: official guidance unavailable (ValueError).
+- youtube: official guidance unavailable (ValueError).
 - youtube: recent official news search returned no trusted items.
