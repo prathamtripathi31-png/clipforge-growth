@@ -1,14 +1,25 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T16:47:54.155147+00:00",
-  "expires_at": "2026-12-04T16:47:54.155147+00:00",
+  "generated_at": "2026-11-28T08:37:43.528591+00:00",
+  "expires_at": "2026-12-05T08:37:43.528591+00:00",
   "platforms": {
     "youtube": {
       "tactics": [
         "yt_one_clear_idea",
-        "yt_open_on_payoff"
+        "yt_open_on_payoff",
+        "yt_specific_title"
       ],
       "evidence": [
+        {
+          "url": "https://support.google.com/youtube/answer/16559650?hl=en",
+          "title": "YouTube Shorts content tips",
+          "kind": "official_guidance"
+        },
+        {
+          "url": "https://support.google.com/youtube/answer/12942217?hl=en",
+          "title": "YouTube Shorts analytics tips",
+          "kind": "official_guidance"
+        },
         {
           "url": "https://blog.youtube/creator-and-artist-stories/youtube-shorts-deep-dive/",
           "title": "YouTube Shorts deep dive: hooks and mini stories",
@@ -48,7 +59,7 @@
   },
   "research": {
     "sources_checked": 7,
-    "sources_ok": 5,
+    "sources_ok": 7,
     "queries": [
       "site:blog.youtube Shorts audience retention creator tips when:30d",
       "site:newsroom.tiktok.com creator content audience tips when:30d"
@@ -58,8 +69,6 @@
       "TikTok ad guidance is ad-derived; test its relevance to organic gaming clips cautiously.",
       "Public feed titles do not establish retention, audience satisfaction, or causation.",
       "No authenticated channel analytics are available to this key-free cloud researcher.",
-      "youtube: official guidance unavailable (ValueError).",
-      "youtube: official guidance unavailable (ValueError).",
       "youtube: recent official news search returned no trusted items."
     ]
   }
